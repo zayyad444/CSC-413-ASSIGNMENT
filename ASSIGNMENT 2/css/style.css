@@ -1,0 +1,55 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.header{
+  background-image: url(../img/banner.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 500px;
+  background-size: cover;
+}
+.dp{
+  margin-left: 45%;
+  margin-top: 200px;
+}
+.round img{
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  border-radius: 50%;
+}
+h5{
+  margin-left: -30px;
+}
+#web{
+  margin-top: -15px;
+  margin-left: 15px;
+}
+.col{
+  width: 66.7%;
+  margin-left: 20%;
+  margin-top: 60px;
+}
+#note{
+  font-size: 15px;
+  font-weight: lighter;
+  font-family: sans-serif;
+}
+h2{
+  font-size: 30px;
+  font-weight: light;
+}
+.side{
+  margin-left: 40px;
+}
+.ok{
+  
+  margin-left: 35%;
+  margin-top: -300px;
+  max-width: 780px;
+
+}
+.clear{
+  margin-top: 100px;
+}
